@@ -1,5 +1,8 @@
 # Android-Development
 
+- [expo.dev](https://expo.dev/accounts/hackbugs)
+- [a0.dev](https://a0.dev/)
+
 ## step-by-step guide to setting up and building your Expo React Native app for Android.  
 
 ---
